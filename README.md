@@ -18,6 +18,14 @@ This repo is the downstream companion to [go-to-market-architecture](https://git
 | [02 - Lead to Quote](docs/02-lead-to-quote.md) | Opportunity stages, exit criteria, and qualification rigor |
 | [03 - CPQ and Deal Desk](docs/03-cpq-and-deal-desk.md) | Product catalog, pricing, approvals, and quote integrity |
 | [04 - Order to Cash](docs/04-order-to-cash.md) | Order, provisioning, invoicing, collections, and revenue operations |
+| [05 - Quote-to-Cash RACI](docs/05-quote-to-cash-raci.md) | Who does what across the revenue chain |
+| [06 - Renewal and Expansion](docs/06-renewal-and-expansion.md) | Renewal timeline, health signals, expansion plays, and churn saves |
+
+### Templates
+
+| Template | Purpose |
+|----------|---------|
+| [Order Data Contract Checklist](templates/order-data-contract-checklist.md) | Pre-booking checklist so the order is fulfillable and billable as written |
 
 ## The chain
 
